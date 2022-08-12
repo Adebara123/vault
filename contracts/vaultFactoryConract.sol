@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
-import "./vault.sol"
+import "./vault.sol";
 
 contract factoryVault{
     vault[] public vaultAddresses;
